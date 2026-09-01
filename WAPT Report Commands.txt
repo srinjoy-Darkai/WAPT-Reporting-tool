@@ -1,0 +1,28 @@
+Step -1
+
+first copy the XML file from downloded folder to reporting tool folder
+
+
+
+step -2
+
+generate excel file.
+
+from xml to excel -
+
+python index.py --excel "XML filename"
+
+
+
+Step -3
+
+generate word & HTML file
+
+from excel to word & HTML - 
+
+python index.py --word "Excel filename"
+
+
+Step -4
+
+copy the HTML file and paste it into word file.
